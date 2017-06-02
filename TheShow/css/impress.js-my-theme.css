@@ -118,10 +118,10 @@ ol, ul {
 }
 ol > li, ul > li {
     position:relative; 
-    margin:7% 2em 0 3em; 
+    margin: 2% 2em 0 3em; 
     padding:8px 8px; 
     list-style:none; 
-    border-top:2px solid #666;
+    /* border-top:2px solid #666; */
     font-size: 1.7em;
     text-align: left;   
 }
@@ -134,13 +134,13 @@ ol > li:before {
     left:-2em;
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
-    box-sizing:border-box;
+    /* box-sizing:border-box; */
     width:2em;
     margin-right:8px;
     padding:4px;
     padding-top: 8px;
-    border-top:2px solid #666;
-    border-right:2px solid #666;
+    /* border-top:2px solid #666;
+    border-right:2px solid #666; */
     font-weight:bold;
     text-align:center;
 }
@@ -156,7 +156,7 @@ ul > li:before {
     width:2em;
     margin-right:8px;
     padding:4px;
-    border-top:2px solid #666;
+    /* border-top:2px solid #666; */
     font-weight:bold;
     text-align:center;
 }
