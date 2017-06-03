@@ -74,7 +74,7 @@ h4,
 h5,
 h6,
 p, li {
-  font-family: 'Lato', serif;
+  font-family: 'Lato', sans-serif;
   font-weight: lighter;
   text-align: center;
   color: rgb(102, 102, 102);
@@ -222,7 +222,7 @@ box-shadow: 0 2px 0 rgba(255,255,255,.2), inset 0 5px 6px rgba(0,0,0,.6), inset 
     -ms-box-sizing:     border-box;
     -o-box-sizing:      border-box;
     box-sizing:         border-box;
-    font-family: 'Lato', georgia, serif;
+    font-family: 'Lato', georgia, sans-serif;
 }
 
 
@@ -247,7 +247,8 @@ box-shadow: 0 2px 0 rgba(255,255,255,.2), inset 0 5px 6px rgba(0,0,0,.6), inset 
     border-radius: 10px;
     padding: 40px;
     box-shadow:  0 2px 6px rgba(0, 0, 0, .1);
-    background-image: url('../img/blank55.png');
+    /*background-image: url('../img/blank55.png');*/
+	background-color: white;
 	background-size: contain;
    
 }
