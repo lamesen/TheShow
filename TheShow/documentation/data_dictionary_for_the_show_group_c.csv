@@ -1,0 +1,45 @@
+Data set,Field,Description,Data Type
+1_sport_injury_rate_data,Sport,Name of sport,string
+1_sport_injury_rate_data,Injury Rate,Injury Rate,numeric
+3_injury_incident_rate,Diagnosis,Injury diagnosis,string
+3_injury_incident_rate,Incident Percent,Incident percent,numeric
+5_Age_Group,Age Group,Age group of runner in 1993 Citibank Marathon,string
+5_Age_Group,Overall %,Ratio in age group,numeric
+6_Gender,Sex,Gender of runner in 1993 Auckland Citibank Marathon,string
+6_Gender,Overall %,Ratio in gender group,numeric
+7_Thigh_Age,Front Thigh Age,Age of runner with thigh injury from 1993 Auckland Citibank Marathon,string
+7_Thigh_Age,% of Group Injured,Ratio in thigh injury group,numeric
+8a_Calf_Age,Age group,Age of runner with calf injury from 1993 Auckland Citibank Marathon,string
+8a_Calf_Age,Calf Injury Rate,Ratio in calf injury group,numeric
+8b_Calf_Gender,Gender,Gender of runner with calf injury from 1993 Auckland Citibank Marathon,string
+8b_Calf_Gender,Calf Injury Rate,Ratio in calf injury group,numeric
+9_Knee_First_Marathon,First marathon,Repeat marathon status of runner with knee injury from 1993 Auckland Citibank Marathon,string
+9_Knee_First_Marathon,Injury Incident Rate,Ratio in knee injury group,numeric
+9_Knee_First_Marathon,Overall Percentage,Ratio in knee injury group,numeric
+10a_Hamstring_Gender,Gender,Gender of runner with hamstring injury from 1993 Auckland Citibank Marathon,string
+10a_Hamstring_Gender,Hamstring Injury Rate,Ratio in hamstring injury group,numeric
+10b_Hamstring_First_Marathon,First marathon,Repeat marathon status of runner with hamstring injury from 1993 Auckland Citibank Marathon,string
+10b_Hamstring_First_Marathon,Hamstring Injury Rate,Ratio in hamstring injury group,numeric
+11_Hip_Gender,Gender,Gender of runner with hip injury from 1993 Auckland Citibank Marathon,string
+11_Hip_Gender,Hip Injury Rate,Ratio in hip injury group,numeric
+12_running_surface_data,Surface,Running surface type,string
+12_running_surface_data,Percentage,Ratio of runners on each surface type,numeric
+13_Miles_Per_Week,miles_per_week,Number of miles per week range,string
+13_Miles_Per_Week,RRI_Men,Running risk of injury - men,numeric
+13_Miles_Per_Week,RRI_Women,Running risk of injury - women,numeric
+14_Running_Frequency,Days per week,Number of days per week,string
+14_Running_Frequency,Number,Number of observations,numeric
+14_Running_Frequency,%,Ratio of observations,numeric
+15_RRI_Minutes_Per_workout,n/a,not used,n/a
+16_Change_in_Workload_per_week,n/a,not used,n/a
+17_internal_external,n/a,not used,n/a
+18_acute_vs_chronic_risk_data,Acute,Factor for acute running load,string
+18_acute_vs_chronic_risk_data,Chronic,Factor for chronic running load (low/high),string
+18_acute_vs_chronic_risk_data,Risk,Risk factor,numeric
+18_acute_vs_chronic_risk_data,Error,Margin of error,numeric
+18_acute_vs_chronic_risk_data,Low,low observation,numeric
+18_acute_vs_chronic_risk_data,High,high observation,numeric
+19_Acute_Chronic_Workload_Recommendation,Likelihood of subsequent injury (%),Ratio of likelihood of subsequent injury,numeric
+19_Acute_Chronic_Workload_Recommendation,Acute:Chronic Workload Ratio,Acute:Chronic Workload Ratio,numeric
+20_Injury_Likelihood_Acute_Chronic_Workload,Chronic workload (% of normal average),Ratio of chronic workload to percent of average,numeric
+20_Injury_Likelihood_Acute_Chronic_Workload,Acute workload (% of normal average),Ratio of acutec workload to percent of average,numeric
